@@ -16,8 +16,6 @@
 }
 
 .header__links-list-item {
-    /* list-style: circle;
-    list-style-position: inside; */ 
     display: flex;
     align-items: center;
     gap: 13px;
@@ -33,7 +31,7 @@
     font-size: 0.8rem;
 }
 
-.header__link{
+.header__link {
     text-transform: lowercase;
     text-underline-offset: 4px;
 }
